@@ -28,7 +28,7 @@ twitter_username: NotNocky
 github_username:  NotNocky
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
